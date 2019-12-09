@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="webb.xsl"?>
+<login >
+    <register>
+        <FirstName>Astha</FirstName>
+        <LastName>Srivastava</LastName>
+        <Email>astha9936@gmail.com</Email>
+        <Password>123</Password>
+        <ConfirmPassword>123</ConfirmPassword>
+        <mobile>8939357599</mobile>
+    </register>
+    <register>
+        <FirstName>Sanjai</FirstName>
+        <LastName>Srivastava</LastName>
+        <Email>sanajai@gmail.com</Email>
+        <Password>1234</Password>
+        <ConfirmPassword>1234</ConfirmPassword>
+        <mobile>8939357500</mobile>
+    </register>
+    <register>
+        <FirstName>Sanju</FirstName>
+        <LastName>Srivastava</LastName>
+        <Email>sanju@gmail.com</Email>
+        <Password>1234567</Password>
+        <ConfirmPassword>1234567</ConfirmPassword>
+        <mobile>893935000</mobile>
+    </register>
+</login>

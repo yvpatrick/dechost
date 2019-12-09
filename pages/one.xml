@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="onee.xsl" type="text/xsl" ?>
+<breakfast_menu>
+
+<food>
+<name>Priyam Sharma</name>
+<price>8428249640</price>
+<description>Recipe Maker</description>
+<calories>Non-Veg and veg</calories>
+</food>
+
+<food>
+<name>Aman Singh</name>
+<price>4343325467</price>
+<description>Delivery Boy</description>
+<calories>Quick Delivery</calories>
+</food>
+
+<food>
+<name>Amitabh Saxena</name>
+<price>9896654125</price>
+<description>Complaints Departement</description>
+<calories>Complaints</calories>
+</food>
+
+<food>
+<name>Ankur Yadav</name>
+<price>8487858636</price>
+<description>Feedback</description>
+<calories>Customer</calories>
+</food>
+
+<food>
+<name>Aditya Rai</name>
+<price>8563541239</price>
+<description>Feedback</description>
+<calories>Suppliers</calories>
+</food>
+
+</breakfast_menu>
